@@ -1,0 +1,174 @@
+
+.uno{
+	background: linear-gradient(left, #FFFFFF, #B6BABA); 
+	margin-top: -35px;
+}
+.movie{
+	margin-left: 400px;
+	margin-top: 10px;
+	margin-bottom: 1px;
+	text-align: left;
+	color: gray;
+}
+label{
+	color: #E0E0E0;
+}
+fieldset{
+	margin-left: 1100px;
+	margin-top: -50px;
+	width: 190px;
+	color: #E0E0E0;
+}
+.lupa{
+	width: 18px;
+	margin-left: 80px;
+	color: #E0E0E0;
+}
+
+.banner{
+	width: 100%;
+	
+	background-repeat: no-repeat;
+}
+
+.seccion{
+	width: 100%;
+	background:url(../img/banner.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.icono{
+	width: 10%;
+	margin: 45%;
+	margin-left: 30%;
+	margin-top: 150px;
+}
+
+.big{
+	background-color: #494A4A;
+	width: 1000%;
+}
+
+.fila3{
+	background-color: #D1BE3C;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+
+hr.style1{
+	border: 1px solid #9D9393;
+	width: 300px;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+
+
+
+
+table{
+	margin-top: 5px;
+	margin-left: 10px;
+}
+td{
+	width: 120px;
+	color: #BEBBBB;
+	font-size: 12px;
+}
+
+.lejos{
+	width: 200px;
+	font-size: 12px;
+}
+
+.text{
+	font-size: 12px;
+	display: inline-block;
+	width: 310px;
+	margin-left: 10px;
+	color: #BEBBBB;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.watch{
+	display: block;
+	background-color: #D1BE3C;
+	width: 143px;
+	font-size: 15px;
+	margin-left: 10px;
+	padding: 10px;
+	border-radius: 10px 10px;
+	color: #ffffff;
+	margin-bottom: 15px;
+}
+
+.book{
+	display: block;
+	background-color: #C28B2C;
+	width: 143px;
+	font-size: 15px;
+	margin-left: 10px;
+	padding: 10px 10px 10px 20px;
+	border-radius: 10px 10px;
+	color: #ffffff;
+	margin-bottom: 15px;
+}
+
+.linea{
+	width: 185px;
+	height: 200px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+
+
+iframe{
+	width: 100%;
+	height: 290px;
+}
+
+
+
+.dont{
+	font-size: 25px;
+	color: #787878;
+	font-weight: bold;
+}
+
+.now{
+	margin-top: 10px;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.easy{
+	margin-top: 10px;
+	font-size: 25px;
+	color: #787878;
+}
+
+.tcket{
+	margin-top: 10px;
+	display: inline-block;
+	font-size: 13px;
+	padding: 25px 30px 25px 30px;
+	border-radius: 10px 10px;
+	background-color: #C28B2C;
+	color: #ffffff;
+}
+
+.uno{
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+.dos,.tres{
+	font-size: 12px;
+	color: #787878;
+}
+
